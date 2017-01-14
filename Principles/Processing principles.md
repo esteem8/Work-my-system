@@ -7,7 +7,7 @@ At the beginning of the workday **optimally choose strategies parts to work on**
 
 During the workday **process process chosen efficiently** by being in optimal conditions.
 
-##Day process organization principles
+##Day organization principles
 * Choose directive parts that is optimal to work on for the workday.
 * To optimally choose what to work on use these principles above:
   * See thing with a cost-conscious driven mindset to minimize effort.

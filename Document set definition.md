@@ -3,9 +3,9 @@
 ##Introduction
 This document describe the document set needed to get a good organization and efficiency composed of:
 * Strategic objective [Unique] 	     → Goal composed of nested objectives.
-* [Strategy principles](https://github.com) [Unique] 	     → Principles to efficiently plan optimal strategies.
+* [Strategy principles](https://github.com/Primerz/WorkMySystem/blob/master/Principles/Strategy%20principles.md) [Unique] 	     → Principles to efficiently plan optimal strategies.
 * Strategic procedures [Multiple]  → Strategies to optimally accomplish objectives.
-* [Processing principles](https://github.com) [Unique]   → Principles to efficiently process actions from strategies.
+* [Processing principles](https://github.com/Primerz/WorkMySystem/blob/master/Principles/Processing%20principles.md) [Unique]   → Principles to efficiently process actions from strategies.
 
 ##Words explanation
 * The goal = the primary objective.

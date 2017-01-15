@@ -1,6 +1,6 @@
 # Optimal mindset ideas
 
-* Make efforts.
+* Make effort to improve yourself and the way you process thing.
 * Focus on what you are doing.
 * Be where you are.
 * Don’t blame something or someone for problems, do your best.
@@ -12,7 +12,6 @@
  * Base your feed-back on yourself progression improvement.
  * For processing → make efforts (try hard) & evaluate effort and progression not result.
  * For organization → avoid effort, problems and obstacles & evaluate the way to result.
-* Do effort to improve yourself and the way you process thing.
 * Minimize cost to make efforts and improve results.
 * Good efficiency and comportment take effort.
 * Think the less to process but when you have a good idea, write it.

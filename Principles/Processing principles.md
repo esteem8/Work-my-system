@@ -1,11 +1,11 @@
 #Processing principles
 
 ##Introduction
-This document provide a set of principles to optimally transform strategy procedures into process.
+This document provide a set of principles to **day-to-day** optimally transform strategy procedures into process.
 
-At the beginning of the workday **optimally choose strategies parts to work on** and transform them into efficient process.
+Before starting to work **choose optimal strategies parts** you want to work on and transform them into efficient sub-process.
 
-During the workday **process process chosen efficiently** by being in optimal conditions.
+During the work time **process sub-process chosen efficiently** by being in optimal conditions.
 
 ##Day process organization principles
 * Choose directive parts that is optimal to work on for the workday.
